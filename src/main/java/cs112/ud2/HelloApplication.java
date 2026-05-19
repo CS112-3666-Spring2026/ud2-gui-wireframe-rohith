@@ -27,7 +27,7 @@ public class HelloApplication extends Application {
         primaryStage.setTitle("Personal Finance Tracker");
 
         // 1. Title Header Region
-        Label titleLabel = new Label("💰 Rohith's Personal Finance Tracker");
+        Label titleLabel = new Label("Personal Finance Tracker");
 
         // 2. Input Form Formations (Left Region)
         Label formTitle = new Label("Add New Transaction:");
