@@ -5,4 +5,4 @@ Modify this file to contain a description of your project, as well as your GUI w
 Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriately.
 
 ## GUI Wireframe
-Embed your wireframe image(s) here!
+![Application Wireframe Blueprint](UD2_Wireframe.png)
