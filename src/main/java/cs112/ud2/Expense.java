@@ -1,3 +1,5 @@
+package cs112.ud2;
+
 /**
  * Concrete child class representing a specific expense.
  * Inherits from Transaction class.

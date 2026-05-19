@@ -1,3 +1,5 @@
+package cs112.ud2;
+
 /**
  * Abstract base class representing a generic financial transaction.
  * Serves as the structural foundation for Income and Expense sub-classes.
